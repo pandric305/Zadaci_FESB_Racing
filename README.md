@@ -8,4 +8,4 @@ Ovdje se nalaze rješenja uvodnih zadataka za FESB Racing.
 2. Zadatak:
    a) Koristeći C ili C++ programski jezik napisati funkciju koja kao argument uzima string s heksadecimalnim znamenkama, a vraća decimalnu vrijednost tog broja. Kod testirati
       unutar terminala na vašem računalu.
-   b) Napraviti prezentaciju 6-0 slajdova o SPI komunikacijskom protokolu te opisati uloge SCK, SI, SO i CS pinova.
+   b) Napraviti prezentaciju 6-10 slajdova o SPI komunikacijskom protokolu te opisati uloge SCK, SI, SO i CS pinova.
