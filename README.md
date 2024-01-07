@@ -9,3 +9,10 @@ Ovdje se nalaze rješenja uvodnih zadataka za FESB Racing.
    a) Koristeći C ili C++ programski jezik napisati funkciju koja kao argument uzima string s heksadecimalnim znamenkama, a vraća decimalnu vrijednost tog broja. Kod testirati
       unutar terminala na vašem računalu.
    b) Napraviti prezentaciju 6-10 slajdova o SPI komunikacijskom protokolu te opisati uloge SCK, SI, SO i CS pinova.
+
+3. Zadatak:
+   a) Istražiti što je CAN protokol, u njegovom kontekstu objasniti pojmove arbitraža i kolizija. Navesti najčešće vrijednosti bitrate-a koji se koriste u CAN mreži. Objasniti
+      ulogu CAN mreže u automobilu. Može li automobil imati više CAN mreža? Ako može, navesti zašto automobili u praksi imaju više odvojenih CAN mreža. Objasniti uloge
+      svih polja okvira CAN poruke.
+   b) Ukratko usporediti SPI i CAN protokol (Bitrate, broj žica, domet(max. Udaljenost dva čvora u mreži), svrha…). Navedite neki svoj primjer gdje bi ste na automobilu
+      koristili CAN, a gdje SPI protokol za komunikaciju između računala.
