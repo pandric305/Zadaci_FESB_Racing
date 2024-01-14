@@ -16,3 +16,9 @@ Ovdje se nalaze rješenja uvodnih zadataka za FESB Racing.
       svih polja okvira CAN poruke.
    b) Ukratko usporediti SPI i CAN protokol (Bitrate, broj žica, domet(max. Udaljenost dva čvora u mreži), svrha…). Navedite neki svoj primjer gdje bi ste na automobilu
       koristili CAN, a gdje SPI protokol za komunikaciju između računala.
+
+4. Zadatak:
+   a) Objasniti uloge pinova MCP2515 chipa (INT, SI, SO, CS, GND, VCC, CAN H, CAN L) i za što se koristiti chip.
+   b) Pronaći shemu spajanja Arduino Uno pločice i MCP2515 chipa.
+   c) Koristeći mcp_can library napisati kod za slanje CAN poruke (testirati će se u ugaraži).
+   d) Napisati kod koji prima CAN poruke i ispisuje ID i DATA polje u konzoli (testirati će se u garaži).
